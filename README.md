@@ -62,14 +62,14 @@ My public repositories are intentionally organized to demonstrate different area
 
 | Project                         | What it demonstrates                                                              |
 | ------------------------------- | --------------------------------------------------------------------------------- |
+| **AllChrono Watch List iOS App**| SwiftUI, Swift Concurrency, MVVM, Repository pattern, dependency injection, async image loading & edge-case handling |
 | **BlogPost iOS App**            | SwiftUI, MVVM, dependency injection, Keychain, networking, unit & UI testing      |
 | **BlogPost Clean Architecture** | .NET 9, Clean Architecture, EF Core, JWT, SQL Server, xUnit & integration testing |
 | **BlogPost Spring Boot**        | Spring Boot, Spring Security, JWT, PostgreSQL, JPA, Docker & API testing          |
 | **BlogPost Android**            | Native Android development with Java/Kotlin                                       |
 | **BlogPost React Native**       | Cross-platform mobile development                                                 |
-| **BlogPost NestJS**             | Node.js backend, REST APIs and modular server-side architecture                   |
 
-Additional projects explore **React, Flutter, Laravel, Java, Spring Boot, .NET and full-stack application development**.
+Additional projects explore **NestJS, React, Flutter, Laravel, Java, Spring Boot, .NET and full-stack application development**.
 
 ---
 
