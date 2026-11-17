@@ -4,7 +4,7 @@
 
 **15+ years of experience building production software across mobile, backend, web, distributed systems, and cloud.**
 
-I specialize in **native iOS engineering** with Swift, SwiftUI, UIKit, and Objective-C, while also bringing strong hands-on experience in **Spring Boot, .NET, React, React Native, Node.js, databases, microservices, AWS, and CI/CD**.
+I specialize in **native iOS engineering** with Swift, SwiftUI, UIKit, and Objective-C, while also bringing strong hands-on experience in **Spring Boot, .NET, Android,  React Native, React, Node.js, Flutter, databases, microservices, AWS, and CI/CD**.
 
 My background allows me to work comfortably at different levels of a software system, from writing production code and designing APIs to making architectural decisions, reviewing implementations, and helping engineering teams deliver reliable products.
 
